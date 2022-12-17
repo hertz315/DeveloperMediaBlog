@@ -28,6 +28,7 @@
 		E0B4E31C294DF63100133C51 /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = E0B4E31B294DF63100133C51 /* FirebaseFirestoreSwift */; };
 		E0B4E31E294DF63100133C51 /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = E0B4E31D294DF63100133C51 /* FirebaseStorage */; };
 		E0B4E320294DF7B400133C51 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E0B4E31F294DF7B400133C51 /* GoogleService-Info.plist */; };
+		E0B4E32F294E03C100133C51 /* DeveloperMediaBlog.entitlements in Resources */ = {isa = PBXBuildFile; fileRef = E0B4E32E294E03C100133C51 /* DeveloperMediaBlog.entitlements */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,7 @@
 		E0B4E30E294DF4CE00133C51 /* LodingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LodingView.swift; sourceTree = "<group>"; };
 		E0B4E310294DF4F600133C51 /* ProfileVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileVM.swift; sourceTree = "<group>"; };
 		E0B4E31F294DF7B400133C51 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		E0B4E32E294E03C100133C51 /* DeveloperMediaBlog.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = DeveloperMediaBlog.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 				E0B4E2F9294DF24B00133C51 /* Core */,
 				E0B4E2E5294DEB9A00133C51 /* DeveloperMediaBlogApp.swift */,
 				E0B4E2E7294DEB9A00133C51 /* ContentView.swift */,
+				E0B4E32E294E03C100133C51 /* DeveloperMediaBlog.entitlements */,
 				E0B4E2E9294DEB9B00133C51 /* Assets.xcassets */,
 				E0B4E2EB294DEB9B00133C51 /* Preview Content */,
 			);
@@ -318,6 +321,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E0B4E32F294E03C100133C51 /* DeveloperMediaBlog.entitlements in Resources */,
 				E0B4E2ED294DEB9B00133C51 /* Preview Assets.xcassets in Resources */,
 				E0B4E2EA294DEB9B00133C51 /* Assets.xcassets in Resources */,
 				E0B4E320294DF7B400133C51 /* GoogleService-Info.plist in Resources */,
